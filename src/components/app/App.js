@@ -11,10 +11,7 @@ const divStyle = {
 function App() {
   return (
     <div>
-      hello
-      <div style={divStyle}>
-        <Logo />
-      </div>
+      <button className="ui button">Testing</button>
     </div>
   );
 }
